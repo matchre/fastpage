@@ -15,6 +15,17 @@
         ,"post1": {
             "title": "Title",
             "content": "1+1 . 2 .",
+            "url": "https://matchre.github.io/fastpage/2021/03/11/TESTT.html",
+            "relUrl": "/2021/03/11/TESTT.html",
+            "date": " • Mar 11, 2021"
+        }
+        
+    
+  
+    
+        ,"post2": {
+            "title": "Title",
+            "content": "1+1 . 2 .",
             "url": "https://matchre.github.io/fastpage/2021/01/31/test.html",
             "relUrl": "/2021/01/31/test.html",
             "date": " • Jan 31, 2021"
